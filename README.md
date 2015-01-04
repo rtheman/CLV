@@ -25,7 +25,7 @@ The CDNow data set (download at [here](http://brucehardie.com/datasets/)), consi
 ------
 ### Code
 
- - <link to code>
+ - Source code ([R](/2_Code/RFM_v0.2.R))
 
 ------
 ### References
