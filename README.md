@@ -29,7 +29,7 @@ The CDNow data set (download at [here](http://brucehardie.com/datasets/)), consi
 
 ------
 ### References
-This project was largely based on the work done by Jack Han at [Data Apple](http://www.dataapple.net/?p=84).  Updates to code was applied through usage of dplyr and various visualization.
+This project was largely based on the work done by Jack Han at [Data Apple](http://www.dataapple.net/?p=84).  However, new libraries/functions are used to update data transformation and visualization of data such as dplyr and ggviz.
 
 Other references used:
 
