@@ -1,3 +1,6 @@
+**RECIPE || Customer Lifetime Value (CLV)**
+
+[[Work In Progress]] 
 Calculating Customer Lifetime Value (CLV) with Recency, Frequency, and Monetary (RFM)
 ------------------------------------------------------------------------
 
