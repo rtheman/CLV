@@ -93,7 +93,7 @@ getDataFrame <- function(df, startDate, endDate, tIDColName = "ID", tDateColName
 	newdf <- cbind(newdf, Recency)
 
 	# sort data frame by ID to fit the return order of table() and tapply()
-	newdf <- newdf[order(newdf[ , tDateColName]), ]
+	newdf <- newdf[order(newdf[ , tIDColName]), ]
 
 	# calc. the Frequency
 	tmp <- as.data.frame(table(df[ , tIDColName]))
